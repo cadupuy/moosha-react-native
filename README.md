@@ -1,6 +1,6 @@
 # Moosha - React Native
 
-[![](https://i.goopics.net/wKQV9.gif)]()
+[![](https://i.goopics.net/2yZlp.gif)]()
 
 ## Overview
 
