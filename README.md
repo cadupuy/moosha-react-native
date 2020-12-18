@@ -1,3 +1,6 @@
+# Moosha - React Native
+
+[![](https://i.ibb.co/vxNKCFw/moosha.gif)](https://vinted-clone.netlify.app/)
 
 ## Overview
 
@@ -47,3 +50,7 @@ Many screens are availables : Login, Signup, Home, Search, Profile...
 
 - [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
 - [Axios](https://github.com/axios/axios)
+- [React Native Swiper Flatlist](https://github.com/gusgard/react-native-swiper-flatlist) 
+- [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) 
+- [Geolib](https://github.com/manuelbieh/geolib)
+
