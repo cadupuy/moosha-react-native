@@ -1,6 +1,6 @@
 # Moosha - React Native
 
-[![](https://i.ibb.co/vxNKCFw/moosha.gif)](https://vinted-clone.netlify.app/)
+[![](https://i.ibb.co/NVhVN5t/test.gif)]()
 
 ## Overview
 
