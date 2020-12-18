@@ -46,6 +46,14 @@ Many screens are availables : Login, Signup, Home, Search, Profile...
 		src="https://image.noelshack.com/fichiers/2020/50/5/1607722368-capture-d-ecran-2020-12-11-a-20-14-20.jpg">		
 		
 		
+	
+## Backoffice
+
+<img
+		alt="Capture 7"
+		src="https://image.noelshack.com/fichiers/2020/51/5/1608311231-screely-1608311215977.png">
+	
+		
 ## Packages
 
 - [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
